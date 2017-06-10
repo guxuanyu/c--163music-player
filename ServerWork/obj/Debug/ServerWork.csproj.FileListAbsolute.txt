@@ -1,0 +1,14 @@
+C:\e\ServerWork\ServerWork\bin\Debug\ServerWork.exe
+C:\e\ServerWork\ServerWork\bin\Debug\ServerWork.pdb
+C:\e\ServerWork\ServerWork\bin\Debug\Interop.WMPLib.dll
+C:\e\ServerWork\ServerWork\bin\Debug\AxInterop.WMPLib.dll
+C:\e\ServerWork\ServerWork\obj\Debug\ResolveAssemblyReference.cache
+C:\e\ServerWork\ServerWork\obj\Debug\Interop.WMPLib.dll
+C:\e\ServerWork\ServerWork\obj\Debug\AxInterop.WMPLib.dll
+C:\e\ServerWork\ServerWork\obj\Debug\ServerWork.csproj.ResolveComReference.cache
+C:\e\ServerWork\ServerWork\obj\Debug\ServerWork.Form1.resources
+C:\e\ServerWork\ServerWork\obj\Debug\ServerWork.Properties.Resources.resources
+C:\e\ServerWork\ServerWork\obj\Debug\ServerWork.csproj.GenerateResource.Cache
+C:\e\ServerWork\ServerWork\obj\Debug\ServerWork.exe
+C:\e\ServerWork\ServerWork\obj\Debug\ServerWork.pdb
+C:\e\ServerWork\ServerWork\bin\Debug\Newtonsoft.Json.dll
